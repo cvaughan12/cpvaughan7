@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/cpvaughan7" # the subpath of your site, e.g. /blog
 url: "https://ferrolho.github.io" # the base hostname & protocol for your site
 github_username:    cvaughan12
-linkedin: https://www.linkedin.com/in/chris-vaughan-a38187200/
+instagram_username: jekyllrb
 twitter_username:   jekyllrb
 
 # Build settings
