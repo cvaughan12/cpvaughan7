@@ -16,7 +16,7 @@
 title: Chris Vaughan
 email: cpvaughan@vt.edu
 description: > # this means to ignore newlines until "baseurl:"
-  test
+ 
 baseurl: "/cpvaughan7" # the subpath of your site, e.g. /blog
 url: "https://ferrolho.github.io" # the base hostname & protocol for your site
 github_username:    cvaughan12
