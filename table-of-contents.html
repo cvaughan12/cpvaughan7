@@ -15,5 +15,13 @@ layout: default
 		</li>
 		{% endfor %}
 	</ul>
+	
+		<ul class="page-list">
+		{% for page in site.pages %}
+		<li>
+			<h3><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | escape }}</a></h3>
+		</li>
+		{% endfor %}
+	</ul>
 
 </div>
