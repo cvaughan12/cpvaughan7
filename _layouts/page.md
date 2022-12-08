@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<div class="entry-content" itemprop="articleBody">
+		{{ content }}
+	</div>
+</article>
+
+<div id="post-nav">
+	<div class="next">
+		{% if page.next.url %}
+		<a href="{{ site.baseurl }}{{ page.next.url }}">
+			<span>Next entry</span>
+			{{ page.next.title }}
+		</a>
+		{% endif %}
+	</div>
+
+	<div class="previous">
+		{% if page.previous.url %}
+		<a href="{{ site.baseurl }}{{ page.previous.url }}">
+			<span>Previous entry</span>
+			{{ page.previous.title }}
+		</a>
+		{% endif %}
+	</div>
+</div>
