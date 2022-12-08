@@ -1,6 +1,6 @@
 ---
-layout: post
-title: About
+layout: default
+title: "About"
 permalink: /about/
 ---
 
