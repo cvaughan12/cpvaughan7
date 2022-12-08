@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<header class="post-header">
-
-	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-</header>
-
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 	<div class="entry-content" itemprop="articleBody">
 		{{ content }}
