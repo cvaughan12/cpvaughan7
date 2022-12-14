@@ -3,25 +3,12 @@ layout: post
 title:  "Using Sifaka to Index Haruki Murakami's Fiction Corpus"
 date:   2022-12-13 12:00 +0100
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+	Haruki Murakami is no stranger to criticism, particularly from those in his home country. His style, his inspirations, and the culture inside his novels are all distinctly Western, even though the setting of his books remains as Japan. This mix gives the impression that Murakami is trying to combine two worlds- inserting a Japanese presence while catering towards the artistic taste of Westerners. Matthew Chozick argues that Murakami’s writings read as exotic to foreigners yet contain imagery familiar and comfortable to Western readers, providing an environment they recognize but which is also new and tempting. He writes that, “Murakami’s works rarely mention contemporary Japanese culture, corporations, composers, or artists. . . . In contrast, internationally distinguished American and British companies, films, authors, and bands are frequently referenced” (2008, 63). In his novels, thus, Japanese culture seems to have been erased and replaced with Western culture.  Due to this perceived Westernization, Murakami is often described as an outcast among his Japanese peers. 
+	
+	For my research, I decided to test the hypothesis that Murakami favors Western influences by using named-entity-recognition software to see what people and places come up most frequently in his work. I put text files of his fiction corpus, his novels and short story collections, into an indexer software named Sifaka and looked at document and collection frequency of terms. For document frequency, a total of how many documents a term appears in, I found that out of the first seventy names, sixty-eight were Western. The leading ten names were Mozart, Bach, Hitler, Chopin, Brahms, Schubert, Schumann, Shakespeare, Beethoven, and Vivaldi, showing his preference for Western composers. Other names that appeared included Alfred Hitchcock, Benny Goodman, Tolstoy, Ralph Lauren, and Sherlock Holmes. For collection frequency, the result was much the same. The most-used named-entities outside of character names or locations were names such as Kafka (38 times), Charlie Parker (20 times), Bob Dylan (13 times), and Bach (25 times).  The only Japanese names within the top seventy names in both lists were Yukio Mishima (2 documents, 2 uses) and Sanshiro, the name of a novel by Japanese author Natsume Soseki (3 documents, 5 uses). 
+	
+	Murakami himself has been known to comment on his lack of knowledge about Japanese works, saying that “Not once, throughout my formative years, did I have the experience of being moved deeply by a Japanese novel” (Slocombe 2004, 5), and that “I learned practically nothing about novelistic technique from my Japanese predecessors.” (Murakami 2009, 1). Murakami instead cites authors such as Fitzgerald and Dostoevsky as his influences, and even left Japan in the 1980s to live abroad in the U.S, which he referred to as “a self-imposed exile.” (Chozick 2008, 62). These findings open up many questions about Murakami’s attachment to Western culture: how do Murakami’s works view and treat Japanese identity? How does he view his own attachment to his homeland? What does it mean for Murakami to be a ‘global author’, and how does this understanding change in the context of Japanese history? I am currently exploring these questions in my thesis. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
 
 Check out the [about page] [jekyll-about] and the [bibliography] [jekyll-bibliography] for the project.
 
