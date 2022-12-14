@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-09-01 11:11:11 +0100
+title:  "Using Sifaka to Index Haruki Murakami's Fiction Corpus"
+date:   2022-12-13 12:00 +0100
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -23,6 +23,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-Check out the [about page] [jekyll-about].
+Check out the [about page] [jekyll-about] and the [bibliography] [jekyll-bibliography] for the project.
 
 [jekyll-about]: https://cvaughan12.github.io/cpvaughan7/about/
+[jekyll-bibliography]: https://cvaughan12.github.io/cpvaughan7/bibliography/
