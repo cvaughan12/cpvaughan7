@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Investigating Westernization in Murakami's Fiction Corpus Using Named-Entity-Recognition"
+title:  "Investigating Westernization in Haruki Murakami's Literature Using Named-Entity-Recognition"
 date:   2022-12-13 12:00 +0100
 ---
 Haruki Murakami is no stranger to criticism, particularly from the literary scene in his home country. His style, his inspirations, and the culture inside his novels are frequently described as Western, even though the setting of his books remains as Japan. This mix gives the impression that Murakami is trying to combine two worlds- maintaining a Japanese presence while catering towards the artistic taste of Westerners. Matthew Chozick argues that Murakami’s writings read as exotic to foreigners yet also contain imagery familiar and comfortable to them, providing an environment they recognize but which is also new and tempting (2008, 66). This imagery usually comes in references to Western artists, literature, and music. In *Kafka on the Shore*, for instance, Johnny Walker and Colonel Sanders both feature as major characters, and a main character finds a love for Western classical music which he imparts to others. In Murakami’s works, thus, Japanese names seem to have been erased and replaced. Due to this perceived Westernization, Murakami is often described as an outcast among his Japanese peers. 
