@@ -3,6 +3,10 @@ layout: page
 title: 'Bibliography'
 permalink: /bibliography/
 ---
+The following is a list of sources used in this project:
+
+
+
 Chozick, Matthew Richard. 2008. “De-Exoticizing Haruki Murakami’s Reception.” In Comparative Literature Studies 45, no. 1: 62. http://www.jstor.org/stable/25659633.
 Github. 2014. Atom. V. 1.63.1. Github. 
 

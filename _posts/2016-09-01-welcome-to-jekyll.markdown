@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Sifaka to Index Haruki Murakami's Fiction Corpus"
+title:  "Investigating Westernization in Murakami's Fiction Corpus Using Named-Entity-Recognition"
 date:   2022-12-13 12:00 +0100
 ---
 Haruki Murakami is no stranger to criticism, particularly from those in his home country. His style, his inspirations, and the culture inside his novels are all distinctly Western, even though the setting of his books remains as Japan. This mix gives the impression that Murakami is trying to combine two worlds- inserting a Japanese presence while catering towards the artistic taste of Westerners. Matthew Chozick argues that Murakami’s writings read as exotic to foreigners yet contain imagery familiar and comfortable to Western readers, providing an environment they recognize but which is also new and tempting. He writes that, “Murakami’s works rarely mention contemporary Japanese culture, corporations, composers, or artists. . . . In contrast, internationally distinguished American and British companies, films, authors, and bands are frequently referenced” (2008, 63). In his novels, thus, Japanese culture seems to have been erased and replaced with Western culture.  Due to this perceived Westernization, Murakami is often described as an outcast among his Japanese peers. 
